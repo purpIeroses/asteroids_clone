@@ -1,0 +1,17 @@
+﻿  AsteroidObjects.cpp
+  Collider.cpp
+  Color.cpp
+  EnemyShip.cpp
+  FlyingSaucer.cpp
+  Font.cpp
+  Game.cpp
+  Image.cpp
+  main.cpp
+  Music.cpp
+  Rectangle.cpp
+  Sound.cpp
+  Sprite.cpp
+  Transform.cpp
+  Vector2.cpp
+  Generating Code...
+  Claudius.vcxproj -> D:\other\portfolio\Sophia_AlNawasreh_Asteroids (1979)_Clone\Build\x64\Debug\Claudius.exe

@@ -1,0 +1,13 @@
+Asteroids (1979) clone by Sophia Al-Nawasreh
+
+arrow keys to move around
+spacebar to shoot bullets
+t to teleport to a random location on the screen
+
+move around to dodge the asteroids and shoot them to make them smaller. clear all the asteroids to progress and increase the difficulty
+you will accelerate if you hold the controls, so move wisely to avoid crashing into an asteroid
+your bullets will wrap around the screen up to a certain distance
+your ship can also wraparound
+
+enemy spaceship will spawn when score is divisible by 150
+
